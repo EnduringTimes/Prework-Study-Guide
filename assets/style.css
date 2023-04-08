@@ -6,9 +6,9 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
-    background-color: #9AFF00;
-    color: white;
+    height:auto;
+    background-color: #0d0621;
+    color: #a5bad0;
 }
 
 h1,
@@ -17,11 +17,20 @@ h2 {
 }
 
 img {
-    display: block;
-    height: 50px;
-    width: 50px;
+    display: block ;
+    height: 100px;
+    width: 100px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 8em 
+    
+     
+    
+   
+}
+body {
+    background-color: #136975;
+    font-family: 'Roboto', sans-serif;
 }
 
 ul {
@@ -37,7 +46,8 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid black;
-    box-shadow: 5px 10px #9AFF00;
+    border: 5px solid rgb(227, 155, 113);
+    box-shadow: 5px 10px #160F29;
+    background-color: #c05e21;
   }
   
